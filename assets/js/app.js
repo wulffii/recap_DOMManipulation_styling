@@ -1,6 +1,6 @@
 // Når du er færdig med denne opgave, ser siden ca sådan her ud: https://prnt.sc/LFbMfsiq2ZV8
 
-// 1. Der skal, med brug af javascript, indsættes 3 skills mere, altså nedenstående html. Se mere i punkt 1.1 - 1.6 under
+// 1. Der skal, med brug af javascript, indsættes 1 skill mere, altså nedenstående html. Se mere i punkt 1.1 - 1.6 under
 /*
     <div>
         <span>CSS:</span>
